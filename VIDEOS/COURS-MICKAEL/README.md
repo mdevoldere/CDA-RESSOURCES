@@ -11,7 +11,7 @@ Exemple dans l'onglet UML
 
 ## UML
 ### Introduction a l'UML :
-Videos sur la prise en main de Visual Paradigm et introduction a l'UML
+Videos sur la prise en main de Visual Paradigm et introduction a l'UML  
 **Date : 10 Juin 2020**
 * Video : [Télécharger ici][site] !
 
