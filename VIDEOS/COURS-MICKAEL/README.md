@@ -12,7 +12,11 @@ Exemple dans l'onglet UML
 ## UML
 ### Introduction a l'UML :
 Videos sur la prise en main de Visual Paradigm et introduction a l'UML
-[Telecharger Ici]: http://portfolio.schoenmaeker.com/work/Mickael/2020-06-10%2009-10-11.mkv
+**Date : 10 Juin 2020**
+* Video : [Télécharger ici][site] !
+
+[site]: http://portfolio.schoenmaeker.com/work/Mickael/2020-06-10%2009-10-11.mkv
+
 ### Cours sur l'heritage :
 ### Cours sur les associations :
 ### Cours sur les agregations et compositions :
