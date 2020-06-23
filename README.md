@@ -1,2 +1,2 @@
-# CHEATSHEETS
- This repository regroups work and learning elements : Mindmaps, website links, images, cheatsheets, etc.
+# CDA-COURS
+Ce dépôt a pour objectif de regrouper les ressources que chacun pense être utiles, propres et cohérentes avec les cours que nous suivons en CDA.
