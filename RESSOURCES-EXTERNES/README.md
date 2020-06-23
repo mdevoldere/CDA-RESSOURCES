@@ -17,3 +17,5 @@ Voir le fichier README.md dans le dossier correspondant
     * Thème de la ressource
     * Sous-thème de la ressource (s’il y en a un)
     * Mettre à jour le fichier md qui cite les sources.
+
+Exemple : _c-arbres-binaires_
