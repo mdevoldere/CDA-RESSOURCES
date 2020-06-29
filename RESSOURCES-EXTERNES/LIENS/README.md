@@ -36,3 +36,11 @@ Attention pas d'installation de git-flow, il est déjà incorporé dans git.
 * lien : [Clique ici][flowCheat] !
 
 [flowCheat]: http://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html
+
+## Github
+
+### Theme
+
+* lien : [Clique ici][themeGithub] !
+
+[themeGithub]: https://pages.github.com/
