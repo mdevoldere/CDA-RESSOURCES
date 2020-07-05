@@ -17,7 +17,7 @@ ex : _js-promesses.pdf_
     * Utiliser le template « Rapport » de Word
     * Renseigner le titre, l’auteur et les contributeurs en page de garde (voir exemple sur fichiers déjà présents.
     * Mettre à jour la table de crédits à la fin du document a chaque fois qu’une modification est faite :
-	* Action
-	* Auteur
-	* Descriptif
-	* Date
+		* Action
+		* Auteur
+		* Descriptif
+		* Date
