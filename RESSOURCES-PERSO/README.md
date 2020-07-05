@@ -3,7 +3,7 @@
 Nous fournirons 2 documents rédigés par nos soins :
 1.	L’original (Word, Excel ou Powerpoint) 
 2.	Une copie de l’original en version PDF
-### Convention A RESPECTER :
+### Conventions A RESPECTER :
 * Convention de nommage des fichiers :
     * Placer la ressource dans le dossier correspondant (Le créer s’il n’existe pas)
     * Nom uniquement en minuscule
