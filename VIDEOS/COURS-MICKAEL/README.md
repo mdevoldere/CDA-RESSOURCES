@@ -16,7 +16,7 @@ Videos sur la prise en main de Git et GitHub
 **Date : 16 Juin 2020**
 * Video : [Télécharger ici][git-intro0] !
 
-[git-intro0]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-16%09-16-30-converted.mp4
+[git-intro0]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-16%2009-16-30-converted.mp4
 
 ### Deuxieme cours - Partie 1:
 Concepts un peu plus avances de gestions de projets sur Git  
