@@ -22,7 +22,7 @@ _Exemple dans l'onglet C#_
 [PDFMS]: https://docs.microsoft.com/fr-fr/dotnet/opbuildpdf/csharp/toc.pdf?branch=live
 [site]: https://docs.microsoft.com/fr-fr/dotnet/csharp/
 
-#### Différence entre struct et class
+#### Différences entre struct et class
 
 * Lien : [Cliquer ici][struct-class] !
 
