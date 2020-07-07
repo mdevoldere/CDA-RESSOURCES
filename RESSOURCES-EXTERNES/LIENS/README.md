@@ -17,6 +17,9 @@ Documentation officielle de Microsoft
 
 * Lien : [Cliquer ici][site] !
 
+* PDF : [Cliquer ici][PDFMS] !
+
+[PDFMS]: https://docs.microsoft.com/fr-fr/dotnet/opbuildpdf/csharp/toc.pdf?branch=live
 [site]: https://docs.microsoft.com/fr-fr/dotnet/csharp/
 
 ## JS
