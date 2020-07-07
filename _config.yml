@@ -25,8 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   propres et cohérentes avec les cours que nous suivons en CDA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  ""
+lang : fr-FR
 show_downloads: false
 # Build settings
 theme: jekyll-theme-midnight

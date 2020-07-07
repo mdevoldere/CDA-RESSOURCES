@@ -1,2 +1,16 @@
-{% include body.html %}
-{{site}}
+{% include header.html %}
+<section>
+    <div id="title">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% include navigation.html %}
+        <hr />
+        <div>maintained by
+            {% for contributor in site.github.contributors %}
+            <a href="{{ contributor.url }}">{{ contributor.login }}</a>,
+            {% endfor %}
+        </div>
+    </div>
+    {{ content }}
+</section>
+{% include footer.html %}

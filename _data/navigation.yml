@@ -1,0 +1,19 @@
+- name: Home
+  link: /
+- name: CheatSheets
+  link: /cheatsheets/
+  cat:
+    - name: Html
+    - link: html/
+    - name: Js
+    - link: js/
+- name: Mindmaps
+  link: /mindmaps.html
+- name: Ressources-externes
+  link: /ressources_externes.html
+- name: Ressources-perso
+  link: /ressources_perso.html
+- name: Video
+  link: /video.html
+- name: About
+  link: /about.html
