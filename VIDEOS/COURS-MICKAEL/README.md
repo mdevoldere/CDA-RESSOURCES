@@ -23,7 +23,7 @@ Concepts un peu plus avances de gestions de projets sur Git
 **Date : 17 Juin 2020**
 * Video : [Télécharger ici][git-intro1] !
 
-[git-intro1]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-17%09-19-22-converted.mp4
+[git-intro1]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-23%2009-17-33-converted.mp4
 
 ### Deuxieme cours - Partie 2:
 Concepts un peu plus avances de gestions de projets sur Git  
