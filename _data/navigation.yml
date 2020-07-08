@@ -4,16 +4,16 @@
   link: /cheatsheets/
   cat:
     - name: Html
-    - link: html/
+      link: html/
     - name: Js
-    - link: js/
+      link: js/
 - name: Mindmaps
-  link: /mindmaps.html
+  link: /mindmaps/
 - name: Ressources-externes
-  link: /ressources_externes.html
+  link: /ressources_externes/
 - name: Ressources-perso
-  link: /ressources_perso.html
+  link: /ressources_perso/
 - name: Video
-  link: /video.html
+  link: /video
 - name: About
-  link: /about.html
+  link: /about

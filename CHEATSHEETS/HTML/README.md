@@ -1,7 +1,7 @@
 ---
 layout: default
 tilte: Html
-permalink: /cheatsheets/html
+permalink: /cheatsheets/html/
 ---
 
 ## Sources
