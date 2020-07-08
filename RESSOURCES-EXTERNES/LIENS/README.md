@@ -13,7 +13,7 @@ _Exemple dans l'onglet C#_
 
 ### Documentation Microsoft
 
-Documentation officielle de Microsoft
+#### Documentation officielle de Microsoft
 
 * Lien : [Cliquer ici][site] !
 
@@ -21,6 +21,13 @@ Documentation officielle de Microsoft
 
 [PDFMS]: https://docs.microsoft.com/fr-fr/dotnet/opbuildpdf/csharp/toc.pdf?branch=live
 [site]: https://docs.microsoft.com/fr-fr/dotnet/csharp/
+
+#### Différences entre struct et class
+
+* Lien : [Cliquer ici][struct-class] !
+
+[struct-class]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/
+
 
 ## JS
 
