@@ -1,15 +1,17 @@
-<nav>
-  
-  {% for item in site.data.navigation %}
-  <a href="{{ item.link }}" {% if page.url == item.link OR page.url == item.cat.link %}style="color: red; margin-right: 1em;"
-    {% else %}style="margin-right: 1em;" {% endif %}>
-    {{ item.name }}
-  </a>
-    {% if page.url == item.link %}
-      {% assign nav = item.cat %}
-    {% endif %}
-  {% endfor %}
-
+<nav id="menu">
+  <ul>
+    {% for item in site.data.navigation %}
+      <li class="title">
+        <a href="{{ item.link }}" {% if page.url == item.link OR page.url == item.cat.link %}style="color: red; margin-right: 1em;"
+          {% else %}style="margin-right: 1em;" {% endif %}>
+          {{ item.name }}
+        </a>
+      </li>
+      {% if page.url == item.link %}
+        {% assign nav = item.cat %}
+      {% endif %}
+    {% endfor %}
+  </ul>
   {% if nav.size > 0 %}
   <hr />
     {% for sous in nav %}

@@ -3,7 +3,7 @@
     <div id="title">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% include navigation.html %}
+        {% include url_downloads.html %}
         <hr />
         <div>maintained by
             {% for contributor in site.github.contributors %}

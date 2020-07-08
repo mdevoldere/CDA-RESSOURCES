@@ -29,6 +29,10 @@ lang : fr-FR
 show_downloads: false
 # Build settings
 theme: jekyll-theme-midnight
+
+sass:
+    sass_dir: _sass
+    style: compressed
 plugins:
   - jekyll-feed
 
