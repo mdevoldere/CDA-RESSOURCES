@@ -55,6 +55,12 @@ Attention pas d'installation de git-flow, il est déjà incorporé dans git.
 
 [themeGithub]: https://pages.github.com/
 
+### Gitignore
+
+* lien : [Clique ici][gitignore] !
+
+[gitignore]: https://gitignore.io/
+
 ## Microsoft
 
 ### Teams
