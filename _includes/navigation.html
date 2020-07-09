@@ -1,24 +1,19 @@
 <nav id="menu">
   <ul>
     {% for item in site.data.navigation %}
-      <li class="title">
-        <a href="{{ item.link }}" {% if page.url == item.link OR page.url == item.cat.link %}style="color: red; margin-right: 1em;"
-          {% else %}style="margin-right: 1em;" {% endif %}>
-          {{ item.name }}
-        </a>
-      </li>
-      {% if page.url == item.link %}
-        {% assign nav = item.cat %}
+    <li class="title menu">
+      <a href="{% if(item.folder[0]) %}{{item.folder}}{{ item.link }}{% else %}{{ item.link }}{% endif %}"
+        {% if page.url == item.link OR page.url == item.cat.link %}style="color: red;"{% endif %}>
+        {{ item.name }}
+      </a>
+      {% if item.cat[0] %}
+      <ul id="sub-menu">
+        {% for subentry in item.cat %}
+        <li><a href="{{ item.name }}{{ subentry.link }}">{{ subentry.name }}</a></li>
+        {% endfor %}
+      </ul>
       {% endif %}
+    </li>
     {% endfor %}
   </ul>
-  {% if nav.size > 0 %}
-  <hr />
-    {% for sous in nav %}
-    <a href="{{ sous.link }}" {% if page.url == sous.link %}style="color: red; margin-right: 1em;"
-      {% else %}style="margin-right: 1em;" {% endif %}>
-      {{ sous.name }}
-    </a>
-    {% endfor %}
-  {% endif %}
 </nav>
