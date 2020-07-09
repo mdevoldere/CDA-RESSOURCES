@@ -1,7 +1,7 @@
 ---
 layout: default
-tilte: Video cours Mickaël
-permalink: /video/cours_mickael
+tilte: Video cours autres
+permalink: /video/autres
 ---
 
 # Liens des vidéos
