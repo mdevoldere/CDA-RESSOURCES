@@ -1,17 +1,17 @@
 - name: Home
   link: /
 - name: CheatSheets
-  link: /cheatsheets/
+  link: /cheatsheets
   folder: CheatSheets
   cat:
     - name: Html
-      link: /html
+      link: /cheatsheets/html
     - name: Js
-      link: /js
+      link: /cheatsheets/js
     - name: NodeJs
-      link: /nodejs
+      link: /cheatsheets/nodejs
     - name: uml
-      link: /uml
+      link: /cheatsheets/uml
 - name: Mindmaps
   link: /mindmaps.html
 - name: Ressources-externes
@@ -19,17 +19,17 @@
   folder: ressources_externes
   cat:
     - name: Fichier
-      link: /fichier
+      link: /ressources_externes/fichier
     - name: Liens
-      link: /liens
+      link: /ressources_externes/liens
 - name: Ressources-perso
   link: /ressources_perso
 - name: Video
   link: /video
   cat:
     - name: Cours-Mickael
-      link: /cours-mickael
+      link: /video/cours-mickael
     - name: Autres
-      link: /aurtes
+      link: /video/aurtes
 - name: About
   link: /about
