@@ -1,5 +1,5 @@
 - name: Home
-  link: /CDA-RESSOURCES/
+  link: /CDA-RESSOURCES
 - name: CheatSheets
   link: /cheatsheets
   folder: CheatSheets
@@ -13,7 +13,7 @@
     - name: uml
       link: /cheatsheets/uml
 - name: Mindmaps
-  link: /mindmaps.html
+  link: /mindmaps
 - name: Ressources-externes
   link: /ressources_externes
   folder: ressources_externes
@@ -27,9 +27,9 @@
 - name: Video
   link: /video
   cat:
-    - name: Cours-Mickael
-      link: /video/cours-mickael
+    - name: Cours Mickaël
+      link: /video/cours_mickael
     - name: Autres
-      link: /video/aurtes
+      link: /video/autre
 - name: About
   link: /about
