@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Video cours autres
+permalink: /video/autres
+---
+
 # Liens des vidéos
 Cette section regroupera les liens des vidéos qui sont en rapport avec notre veille techno des sujets vus en cours.
 **Merci de créer un titre de thème (de niveau 2) s'il n'existe pas déjà**
