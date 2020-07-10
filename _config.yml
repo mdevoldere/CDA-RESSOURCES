@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang : fr-FR
 show_downloads: true
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 
 sass:
     sass_dir: _sass
