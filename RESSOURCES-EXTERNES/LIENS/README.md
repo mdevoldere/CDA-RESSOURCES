@@ -19,11 +19,21 @@ _Exemple dans l'onglet C#_
 
 ### Documentation Microsoft
 
-Documentation officielle de Microsoft
+#### Documentation officielle de Microsoft
 
 * Lien : [Cliquer ici][site] !
 
+* PDF : [Cliquer ici][PDFMS] !
+
+[PDFMS]: https://docs.microsoft.com/fr-fr/dotnet/opbuildpdf/csharp/toc.pdf?branch=live
 [site]: https://docs.microsoft.com/fr-fr/dotnet/csharp/
+
+#### Différences entre struct et class
+
+* Lien : [Cliquer ici][struct-class] !
+
+[struct-class]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/
+
 
 ## JS
 
@@ -50,6 +60,12 @@ Attention pas d'installation de git-flow, il est déjà incorporé dans git.
 * lien : [Clique ici][themeGithub] !
 
 [themeGithub]: https://pages.github.com/
+
+### Gitignore
+
+* lien : [Clique ici][gitignore] !
+
+[gitignore]: https://gitignore.io/
 
 ## Microsoft
 
