@@ -15,7 +15,7 @@ Une fois la pull request effectuée, il faut 2 reviews pour valider le merge ver
 
 Si vous avez besoin d’aide pour la gestion des branches avec git flow : [Cliquez ici][site0] !
 
-[site0]: https://github.com/kyweez/CDA-RESSOURCES/blob/master/RESSOURCES-PERSO/GIT/VERSIONS-PDF/git-gestion-de-projet-sur-github.pdf
+[site0]: https://github.com/kyweez/CDA-RESSOURCES/blob/master/RESSOURCES-PERSO/GIT/VERSIONS-PDF/git-gestion-de-branche-avec-flow.pdf
 
 
 ## Ressource ajoutée :
