@@ -1,6 +1,7 @@
 ---
 layout: home
 tilte: Home
+permalink: /
 ---
 
 # CDA-COURS
