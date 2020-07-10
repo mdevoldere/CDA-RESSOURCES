@@ -1,7 +1,7 @@
 ---
 layout: default
 tilte: Ressources Externes Liens
-permalink: /ressources_externes/Liens
+permalink: /ressources_externes/liens
 ---
 
 # Liens des sites
