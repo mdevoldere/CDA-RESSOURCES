@@ -7,66 +7,63 @@ Cette section regroupera les liens des sites qui sont en rapport avec notre veil
 * Créer un petit descriptif du site (1 ligne ou 2)
 * Insérer le lien  
 
-_Exemple dans l'onglet C#_
 
-## C-SHARP
-
+## C#
 ### Documentation Microsoft
 
 #### Documentation officielle de Microsoft
 
-* Lien : [Cliquer ici][site] !
+* Lien : [Cliquer ici][c#-00] !
 
-* PDF : [Cliquer ici][PDFMS] !
+* PDF : [Cliquer ici][c#-01] !
 
-[PDFMS]: https://docs.microsoft.com/fr-fr/dotnet/opbuildpdf/csharp/toc.pdf?branch=live
-[site]: https://docs.microsoft.com/fr-fr/dotnet/csharp/
+[c#-00]: https://docs.microsoft.com/fr-fr/dotnet/csharp/
+[c#-01]: https://docs.microsoft.com/fr-fr/dotnet/opbuildpdf/csharp/toc.pdf?branch=live
 
 #### Différences entre struct et class
 
-* Lien : [Cliquer ici][struct-class] !
+* Lien : [Cliquer ici][c#-02] !
 
-[struct-class]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/
+[c#-02]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/
 
+#### Utilisations des getters/setters (properties)
 
-## JS
+* Lien 1 : [Cliquer ici][c#-03] !
 
-## JAVA
+[c#-03]: https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/classes-and-structs/using-properties
 
-## SQL
+* Lien 2 : [Cliquer ici][c#-04] !
 
-## UML
+[c#-04]: https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/classes-and-structs/auto-implemented-properties
+
 
 ## GIT
-
 ### Cheatsheet
 
 Attention pas d'installation de git-flow, il est déjà incorporé dans git.
 
-* lien : [Clique ici][flowCheat] !
+* lien : [Clique ici][git-00] !
 
-[flowCheat]: http://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html
+[git-00]: http://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html
+
 
 ## Github
-
 ### Theme
 
-* lien : [Clique ici][themeGithub] !
+* lien : [Clique ici][git-01] !
 
-[themeGithub]: https://pages.github.com/
+[git-01]: https://pages.github.com/
 
 ### Gitignore
 
-* lien : [Clique ici][gitignore] !
+* lien : [Clique ici][git-02] !
 
-[gitignore]: https://gitignore.io/
+[git-02]: https://gitignore.io/
+
 
 ## Microsoft
-
-### Teams
-
 #### Flow
 
-* lien : [Clique ici][flow] !
+* lien : [Clique ici][ms-00] !
 
-[flow]: https://docs.microsoft.com/fr-fr/power-automate/?utm_source=flow-sidebar
+[ms-00]: https://docs.microsoft.com/fr-fr/power-automate/?utm_source=flow-sidebar
