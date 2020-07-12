@@ -6,51 +6,106 @@ Cette section regroupera les liens des vidéos enregistrees pendant les cours av
 * Date de la video
 * Insérer le lien
 
-Exemple dans l'onglet UML
 
-## C-SHARP
+## JS
+### Manipulation de classes - Partie 1
+Etude de cas : Gestion d'employes / Manipulation de classes 
+**Date : 08 Juin 2020**
+* Video : [Regarder ici][js-00] !
+
+[js-00]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-08_10-13-51-converted.mp4
+
+### Manipulation de classes - Partie 2
+Etude de cas : Gestion d'employes / Manipulation de classes 
+**Date : 08 Juin 2020**
+* Video : [Regarder ici][js-01] !
+
+[js-01]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-08_11-03-22-converted.mp4
+
+
+## UML & POO
+### Introduction UML
+Etude de cas : Gestion d'employes / Introduction  POO, UML et notions d'heritage
+**Date : 10 Juin 2020**
+* Video : [Regarder ici][uml-00] !
+
+[uml-00]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-10_09-10-11-converted.mp4
+
+### POO dans le code - Partie 1
+Etude de cas : Gestion d'employes / Demonstration de la POO en code
+**Date : 10 Juin 2020**
+* Video : [Regarder ici][uml-01] !
+
+[uml-01]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-10_11-23-20-converted.mp4
+
+### POO dans le code - Partie 2
+Etude de cas : Gestion d'employes / Demonstration de la POO en code (suite)
+**Date : 11 Juin 2020**
+* Video : [Regarder ici][uml-02] !
+
+[uml-02]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-11_09-39-46-converted.mp4
+
+### Correction d'exercices UML
+Correcition d'exercices autour de la POO avec le support UML
+**Date : 11 Juin 2020**
+* Video : [Regarder ici][uml-03] !
+
+[uml-03]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-11_11-13-26-converted.mp4
+
+### TP Point
+Correcition de l'exercice des points (UML & POO)
+**Date : 15 Juin 2020**
+* Video : [Regarder ici][uml-04] !
+
+[uml-04]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-15_09-41-49-converted.mp4
+
+### Exercices du Powerpoint en UML
+Correction des exercices du document Powerpoint
+**Date : 15 Juin 2020**
+* Video : [Regarder ici][uml-05] !
+
+[uml-05]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-15_09-57-23-converted.mp4
+
+### Exercices Banque et Voiture - Partie 1
+Correcition des exercices de la banque et de la voiture + cours sur UML/POO
+**Date : 17 Juin 2020**
+* Video : [Regarder ici][uml-06] !
+
+[uml-06]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-17_09-19-22-converted.mp4
+
+### Exercices Banque et Voiture - Partie 2
+Correction des exercices de la banque et de la voiture + cours sur UML/POO
+**Date : 17 Juin 2020**
+* Video : [Regarder ici][uml-07] !
+
+[uml-07]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-17_11-20-57-converted.mp4
+
+### Academy
+Correction de l'etude de cas sur Academy
+**Date : 01 Juillet 2020**
+* Video : [Regarder ici][uml-08] !
+
+[uml-08]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-07-01_09-03-14-converted.mp4
+
 
 ## GIT
-### Premier cours :
-Videos sur la prise en main de Git et GitHub  
+### Cours GIT - Partie 1
+Cours et demonstration sur GIT et GitHub
 **Date : 16 Juin 2020**
-* Video : [Télécharger ici][git-intro0] !
+* Video : [Regarder ici][git-00] !
 
-[git-intro0]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-16%2009-16-30-converted.mp4
+[git-00]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-16_09-16-30-converted.mp4
 
-### Deuxieme cours - Partie 1:
-Concepts un peu plus avances de gestions de projets sur Git  
-**Date : 17 Juin 2020**
-* Video : [Télécharger ici][git-intro1] !
+### Cours GIT - Partie 2
+Cours et demonstration sur GIT et GitHub
+**Date : 23 Juin 2020**
+* Video : [Regarder ici][git-01] !
 
-[git-intro1]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-23%2009-17-33-converted.mp4
+[git-01]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-23_09-17-33-converted.mp4
 
-### Deuxieme cours - Partie 2:
-Concepts un peu plus avances de gestions de projets sur Git  
-**Date : 17 Juin 2020**
-* Video : [Télécharger ici][git-intro2] !
-
-[git-intro2]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-17%11-20-57-converted.mp4
-
-## UML
-### Introduction a l'UML :
-Videos sur la prise en main de Visual Paradigm et introduction a l'UML  
-**Date : 10 Juin 2020**
-* Video : [Télécharger ici][uml-intro0] !
-
-[uml-intro0]: http://portfolio.schoenmaeker.com/work/Mickael/2020-06-10%2009-10-11.mkv
-
-### Cours sur l'heritage :
-### Cours sur les associations :
-### Cours sur les agregations et compositions :
-### Cours sur les dependances :
-### Correction de l'exercice Academy:
-Videos sur la correction du TP Academy. Diagramme de classe sur Visual Paradigm  
+### Cours GIT - Partie 3
+Cours et demonstration sur GIT et GitHub
 **Date : 01 Juillet 2020**
-* Video : [Télécharger ici][uml-exo0] !
+* Video : [Regarder ici][git-02] !
 
-[uml-exo0]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-07-01%09-03-14-converted.mp4
-
-## JAVA
-
-## SQL
+[git-02]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-07-01_14-22-36-converted.mp4
