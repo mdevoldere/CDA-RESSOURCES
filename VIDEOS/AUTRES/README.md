@@ -36,3 +36,9 @@ Excellentes vidéos d’un codeur fou sur les promesses en JS. Lâchez des likes
 ## SQL
 
 ## UML
+
+## PHP
+Excellentes vidéo d'un développeur en freelance sur le php.
+* Video : [Playlist ici][site3] !
+
+[site3]: https://www.youtube.com/playlist?list=PLjwdMgw5TTLX9UU3k2-zX0cWNgO6K-Q02
