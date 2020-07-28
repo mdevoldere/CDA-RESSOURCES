@@ -1,9 +1,3 @@
-## Sources
-* html-cheatsheet : [ici][site] !
-
-[site]: https://github.com/jasonchampagne/FormationVideo/blob/master/Ressources/HTML-CSS/balises-html.md
-
-
 # Liens des vidéos
 Cette section regroupera les liens des vidéos qui sont en rapport avec notre veille techno des sujets vus en cours.
 **Merci de créer un titre de thème (de niveau 2) s'il n'existe pas déjà**
@@ -18,20 +12,26 @@ Exemple dans l'onglet JS
 ## JS
 ### Playlist d'introduction au JS :
 Parfaite introduction au langage JS. Il prend le temps de parler et explique très bien les notions de base.
-* Video : [Playlist ici][site] !
+* Video : [Playlist ici][site0] !
 
-[site]: https://www.youtube.com/watch?v=02Xs2ySaXcs&list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_ 
+[site0]: https://www.youtube.com/watch?v=02Xs2ySaXcs&list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_ 
 ### Promesses en JS / Part 1 & 2 (en anglais) :
 Excellentes vidéos d’un codeur fou sur les promesses en JS. Lâchez des likes, il mérite !
-* Video : [Part-1][site] !
+* Video : [Part-1][site1] !
 
-[site]: https://www.youtube.com/watch?v=QO4NXhWo_NM
-* Video : [Part-2][site] !
+[site1]: https://www.youtube.com/watch?v=QO4NXhWo_NM
+* Video : [Part-2][site2] !
 
-[site]: https://www.youtube.com/watch?v=AwyoVjVXnLk&t=170s
+[site2]: https://www.youtube.com/watch?v=AwyoVjVXnLk&t=170s
 
 ## JAVA
 
 ## SQL
 
 ## UML
+
+## PHP
+Excellentes vidéo d'un développeur en freelance sur le php.
+* Video : [Playlist ici][site3] !
+
+[site3]: https://www.youtube.com/playlist?list=PLjwdMgw5TTLX9UU3k2-zX0cWNgO6K-Q02
