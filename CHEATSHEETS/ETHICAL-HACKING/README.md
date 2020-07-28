@@ -1,7 +1,7 @@
 ---
 layout: default
 tilte: Ethical hacking
-permalink: /cheatsheets/ethical-hacking
+permalink: /cheatsheets/ethical_hacking
 ---
 
 ## Sources
