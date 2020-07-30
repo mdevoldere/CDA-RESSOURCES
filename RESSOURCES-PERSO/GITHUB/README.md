@@ -11,8 +11,8 @@ Cette section regroupera les liens des sites qui sont en rapport avec notre veil
 
 ### Intergation Continue
 
-* lien-doc : [Clique ici][github-01] !
+* lien-doc : [Version Word][github-01] et [Version PDF][github-02] !
 
-[github-doc-01]: /ressources_perso/github/version_doc/pseudo_integration_continue.docx
+[github-01]: /ressources_perso/github/version_doc/pseudo_integration_continue.docx
 
-[github-pdf-01]: /ressources_perso/github/version_doc/pseudo_integration_continue.pdf
+[github-02]: /ressources_perso/github/version_pdf/pseudo_integration_continue.pdf
