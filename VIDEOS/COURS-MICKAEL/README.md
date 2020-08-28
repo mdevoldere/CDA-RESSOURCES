@@ -145,7 +145,7 @@ Cours et démonstration autour de l'etude de cas : Gestion d'employés
 [C-01]: http://media.arfp.eu/2005/2020-07-08_09-12-23.mp4
 
 ### Correction d'un exercice en C#
-Correction de l'etude de cas : Gestion d'employés  
+Correction de l'étude de cas : Gestion d'employés  
 **Date : 08 Juillet 2020**
 * Vidéo : [Regarder ici][C-02] !
 
