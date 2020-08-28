@@ -91,7 +91,7 @@ Correction de l'étude de cas sur Academy
 **Date : 01 Juillet 2020**
 * Vidéo : [Regarder ici][uml-08] !
 
-[uml-08]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-07-01_09-03-14-converted.mp4
+[uml-08]: http://media.arfp.eu/2005/2020-07-01_09-03-14.mp4
 
 ### Etude de cas : Gestion d'employés
 Travail en UML sur une etude de ca de gestions d'employés (classes abstraites, heritage...)  
@@ -113,14 +113,14 @@ Cours et démonstration sur GIT et GitHub
 **Date : 23 Juin 2020**
 * Vidéo : [Regarder ici][git-01] !
 
-[git-01]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-06-23_09-17-33-converted.mp4
+[git-01]: http://media.arfp.eu/2005/2020-06-23_09-17-33.mp4
 
 ### Cours GIT - Partie 3
 Cours et démonstration sur GIT et GitHub  
 **Date : 01 Juillet 2020**
 * Vidéo : [Regarder ici][git-02] !
 
-[git-02]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-07-01_14-22-36-converted.mp4
+[git-02]: http://media.arfp.eu/2005/2020-07-01_14-22-36.mp4
 
 ## C#
 ### Introduction au C#
@@ -129,3 +129,11 @@ Cours et démonstration sur les bases du C# et du .NET framework
 * Vidéo : [Regarder ici][C-00] !
 
 [C-00]: http://media.arfp.eu/2005/2020-06-29%2009-31-18.mkv
+
+## C#
+### Polymorphisme en C#
+Cours et démonstration autour de l'etude de cas : Gestion d'employés  
+**Date : 08 Juillet 2020**
+* Vidéo : [Regarder ici][C-01] !
+
+[C-01]: http://media.arfp.eu/2005/2020-07-08_09-12-23.mp4
