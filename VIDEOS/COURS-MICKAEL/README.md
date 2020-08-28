@@ -167,56 +167,56 @@ Etude de cas : Gestion d'employés
 
 ## Merise
 ### Introduction Merise
-Cours theorique sur la méthode Merise 
+Cours theorique sur la méthode Merise   
 **Date : 20 Juillet 2020**
 * Vidéo : [Regarder ici][Merise-00] !
 
 [Merise-00]: http://media.arfp.eu/2005/2020-07-20_09-06-13.mp4
 
 ### Cours Merise - Partie 1
-Cours Merise - Etude de cas des plages
+Cours Merise - Etude de cas des plages  
 **Date : 27 Juillet 2020**
 * Vidéo : [Regarder ici][Merise-01] !
 
 [Merise-01]: http://media.arfp.eu/2005/2020-07-27_09-05-02.mp4
 
 ### Cours Merise - Partie 2
-Cours Merise - Etude de cas du Grand Prix
+Cours Merise - Etude de cas du Grand Prix  
 **Date : 27 Juillet 2020**
 * Vidéo : [Regarder ici][Merise-02] !
 
 [Merise-02]: http://media.arfp.eu/2005/2020-07-27_14-01-36.mp4
 
 ### Cours Merise - Partie 3
-Cours Merise - Etude de cas Agence de voyage
+Cours Merise - Etude de cas Agence de voyage  
 **Date : 03 Aout 2020**
 * Vidéo : [Regarder ici][Merise-03] !
 
 [Merise-03]: http://media.arfp.eu/2005/2020-08-03_14-02-11.mp4
 
 ### Cours Merise - Partie 4
-Cours Merise - Etude de cas Agence de voyage
+Cours Merise - Etude de cas Agence de voyage  
 **Date : 04 Aout 2020**
 * Vidéo : [Regarder ici][Merise-04] !
 
 [Merise-04]: http://media.arfp.eu/2005/2020-08-04_08-11-33.mp4
 
 ### Cours Merise - Partie 5
-Cours Merise - Etude de cas Agence de voyage (Intro SQL)
+Cours Merise - Etude de cas Agence de voyage (Intro SQL)  
 **Date : 05 Aout 2020**
 * Vidéo : [Regarder ici][Merise-05] !
 
 [Merise-05]: http://media.arfp.eu/2005/2020-08-05_09-18-02.mp4
 
 ### Cours Merise - Partie 6
-Cours Merise - Etude de cas Agence de voyage (MySQL Workbench)
+Cours Merise - Etude de cas Agence de voyage (MySQL Workbench)  
 **Date : 06 Aout 2020**
 * Vidéo : [Regarder ici][Merise-06] !
 
 [Merise-06]: http://media.arfp.eu/2005/2020-08-06_08-56-44.mp4
 
 ### Cours Merise - Partie 7
-Cours Merise - Etude de cas Agence de voyage (MySQL Workbench)
+Cours Merise - Etude de cas Agence de voyage (MySQL Workbench)  
 **Date : 06 Aout 2020**
 * Vidéo : [Regarder ici][Merise-07] !
 
