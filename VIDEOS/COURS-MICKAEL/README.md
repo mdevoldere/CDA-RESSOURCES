@@ -93,6 +93,12 @@ Correction de l'étude de cas sur Academy
 
 [uml-08]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-07-01_09-03-14-converted.mp4
 
+### Etude de cas : Gestion d'employés
+Travail en UML sur une etude de ca de gestions d'employés (classes abstraites, heritage...)
+**Date : 24 Juin 2020**
+* Vidéo : [Regarder ici][uml-09] !
+
+[uml-09]: http://media.arfp.eu/2005/2020-06-24_09-27-17.mp4
 
 ## GIT
 ### Cours GIT - Partie 1
@@ -115,3 +121,11 @@ Cours et démonstration sur GIT et GitHub
 * Vidéo : [Regarder ici][git-02] !
 
 [git-02]: http://portfolio.schoenmaeker.com/work/Mickael/mp4/2020-07-01_14-22-36-converted.mp4
+
+## C#
+### Introduction au C#
+Cours et démonstration sur les bases du C# et du .NET framework
+**Date : 24 Juin 2020**
+* Vidéo : [Regarder ici][C-00] !
+
+[C-00]: http://media.arfp.eu/2005/2020-06-29%2009-31-18.mkv
