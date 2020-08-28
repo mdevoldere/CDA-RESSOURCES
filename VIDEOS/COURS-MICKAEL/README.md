@@ -100,6 +100,13 @@ Travail en UML sur une etude de ca de gestions d'employés (classes abstraites, 
 
 [uml-09]: http://media.arfp.eu/2005/2020-06-24_09-27-17.mp4
 
+### Evaluation UML
+Correction de l'evaluation  
+**Date : 10 Juillet 2020**
+* Vidéo : [Regarder ici][uml-10] !
+
+[uml-10]: http://media.arfp.eu/2005/2020-07-10_09-05-12.mp4
+
 ## GIT
 ### Cours GIT - Partie 1
 Cours et démonstration sur GIT et GitHub  
@@ -130,9 +137,16 @@ Cours et démonstration sur les bases du C# et du .NET framework
 
 [C-00]: http://media.arfp.eu/2005/2020-06-29%2009-31-18.mkv
 
-## C#
 ### Polymorphisme en C#
 Cours et démonstration autour de l'etude de cas : Gestion d'employés  
+**Date : 08 Juillet 2020**
+* Vidéo : [Regarder ici][C-01] !
+
+[C-01]: http://media.arfp.eu/2005/2020-07-08_09-12-23.mp4
+
+
+### Correction d'un exercice en C#
+Correction de l'etude de cas : Gestion d'employés  
 **Date : 08 Juillet 2020**
 * Vidéo : [Regarder ici][C-01] !
 
