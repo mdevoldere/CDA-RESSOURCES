@@ -38,6 +38,8 @@
   cat:
     - name: Cours Mickaël
       link: /video/cours_mickael
+    - name: Cours Franck
+      link: video/cours_franck
     - name: Autres
       link: /video/autres
 - name: About
