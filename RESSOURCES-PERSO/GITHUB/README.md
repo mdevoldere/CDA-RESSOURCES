@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: GITHUB
+permalink: /ressources_perso/github
+---
+
 # Liens des documents perso
 
 Cette section regroupera les liens des sites qui sont en rapport avec notre veille techno des sujets vus en cours.
