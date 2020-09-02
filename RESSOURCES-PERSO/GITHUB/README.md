@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: GITHUB
+permalink: /ressources_perso/github
+---
+
 # Liens des documents perso
 
 Cette section regroupera les liens des sites qui sont en rapport avec notre veille techno des sujets vus en cours.
@@ -13,6 +19,6 @@ Cette section regroupera les liens des sites qui sont en rapport avec notre veil
 
 * lien-doc : [Version Word][github-01] et [Version PDF][github-02] !
 
-[github-01]: /ressources_perso/github/version_doc/pseudo_integration_continue.docx
+[github-01]: /RESSOURCES-PERSO/GITHUB/VERSION-DOC/pseudo_integration_continue.docx
 
-[github-02]: /ressources_perso/github/version_pdf/pseudo_integration_continue.pdf
+[github-02]: /RESSOURCES-PERSO/GITHUB/VERSION-PDF/pseudo_integration_continue.pdf
