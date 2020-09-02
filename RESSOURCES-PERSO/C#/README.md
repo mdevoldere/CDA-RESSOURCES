@@ -19,23 +19,23 @@ Cette section regroupera les liens des sites qui sont en rapport avec notre veil
 
 * lien-doc : [Version Word][C#-01] et [Version PDF][C#-02] !
 
-[C#-01]: RESSOURCES-PERSO/C#/VERSIONS-DOC/c-sharp-fondamentaux.docx
+[C#-01]: VERSIONS-DOC/c-sharp-fondamentaux.docx
 
-[C#-02]: RESSOURCES-PERSO/C#/VERSIONS-DOC/c-sharp-initiation.pdf
+[C#-02]: VERSIONS-PDF/c-sharp-initiation.pdf
 
 
 ### C# initiation
 
 * lien-doc : [Version Word][C#-03] et [Version PDF][C#-04] !
 
-[C#-03]: RESSOURCES-PERSO/C#/VERSIONS-DOC/c-sharp-initiation.docx
+[C#-03]: VERSIONS-DOC/c-sharp-initiation.docx
 
-[C#-04]: RESSOURCES-PERSO/C#/VERSIONS-DOC/c-sharp-initiation.pdf
+[C#-04]: VERSIONS-PDF/c-sharp-initiation.pdf
 
 ### C# operateurs logiques
 
 * lien-doc : [Version Word][C#-05] et [Version PDF][C#-06] !
 
-[C#-05]: RESSOURCES-PERSO/C#/VERSIONS-DOC/c-sharp-operateurs-logiques.docx
+[C#-05]: VERSIONS-DOC/c-sharp-operateurs-logiques.docx
 
-[C#-06]: RESSOURCES-PERSO/C#/VERSIONS-DOC/c-sharp-operateurs-logiques.pdf
+[C#-06]: VERSIONS-PDF/c-sharp-operateurs-logiques.pdf
