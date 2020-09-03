@@ -1,7 +1,7 @@
 ---
 layout: default
 tilte: C#
-permalink: /ressources_perso/C#
+permalink: /ressources_perso/c#
 ---
 
 # Liens des documents perso
