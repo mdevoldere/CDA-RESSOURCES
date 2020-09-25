@@ -35,6 +35,8 @@
       link: /ressources_perso/github
     - name: Office
       link: /ressources_perso/office
+    - name: Microsoft
+      link: /ressources_perso/microsoft
 - name: Video
   link: /video
   cat:
