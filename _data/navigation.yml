@@ -42,6 +42,8 @@
   cat:
     - name: Cours Mickaël
       link: /video/cours_mickael
+    - name: Cours Sophie
+      link: /video/cours_sophie
     - name: Cours Franck
       link: /video/cours_franck
     - name: Autres
